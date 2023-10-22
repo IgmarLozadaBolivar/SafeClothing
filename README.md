@@ -52,11 +52,10 @@
 🔹 Listar los productos y tallas del inventario. La consulta debe mostrar el id del inventario, nombre del producto, tallas y cantidad de cada talla. ❌ <br>
 
 ### Datos Curiosos
-<h4>Ingreso de Usuario</h4>
 <h5>Usuarios que podes utilizar: </h5>
-- ByBolivar - 123 (Rol = administrador)
-- Jholver - JPrado (Rol = administrador)
-- Admin - admin (Rol = administrador)
+- ByBolivar - 123 (Rol = administrador) <br>
+- Jholver - JPrado (Rol = administrador) <br>
+- Admin - admin (Rol = administrador) <br>
 - Empleado - empleado (Rol = empleado)
 
 ### 💰 You can help me by Donating 💰
