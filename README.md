@@ -54,7 +54,6 @@
 ### Datos Curiosos
 <h5>Usuarios que podes utilizar: </h5>
 - ByBolivar - 123 (Rol = administrador) <br>
-- Jholver - JPrado (Rol = administrador) <br>
 - Admin - admin (Rol = administrador) <br>
 - Empleado - empleado (Rol = empleado)
 
