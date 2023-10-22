@@ -61,7 +61,9 @@
 ### 1. Generate token:
 
 **Endpoint** `http://localhost:5021/User/token`
+
 **Method**: `POST`
+
 **Payload**: 
 `{ "Nombre": "ByBolivar", "Contraseña": "123" }`
 `{ "Nombre": "Admin", "Contraseña": "admin" }`
@@ -69,7 +71,9 @@
 
 ### 2. User registration ✍:
 **Endpoint**: `http://localhost:5272/User/register`
+
 **Method**: `POST`
+
 **Payload**:
 `{ "Usuario": "<YourUsername>", "Contraseña": "<YourPassword>", "CorreoElectronico": "<YourMail>" }`
 
@@ -77,7 +81,9 @@
 
 ### 3. Refresh Token 🔄:
 **Endpoint**: `http://localhost:5272/User/refresh-token`
+
 **Method**: `POST`
+
 **Payload**:
 `{ "Nombre": "<YourUsername>", "Contraseña": "<YourPassword>" }`
 
@@ -85,13 +91,17 @@
 
 ### 4. Other queries 🔄:
 **Methods**: `GET`
+
 **Obtener todos los usuarios**: `http://localhost:5272/User`
+
 **Obtener usuario por ID**: `http://localhost:5272/User/{id}`
 
 **Method**: `PUT`
+
 **Actualizar usuario**: `http://localhost:5272/User/{id}`
 
 **Method**: `DELETE`
+
 **Eliminar usuario**: `http://localhost:5272/User/{id}`
 
 ### You can help me by Donating 💰
