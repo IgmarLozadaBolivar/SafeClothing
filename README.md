@@ -66,7 +66,9 @@
 
 **Payload**: 
 `{ "Nombre": "ByBolivar", "Contraseña": "123" }`
+
 `{ "Nombre": "Admin", "Contraseña": "admin" }`
+
 `{ "Nombre": "Empleado", "Contraseña": "empleado" }`
 
 ### 2. User registration ✍:
