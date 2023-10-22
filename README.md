@@ -27,7 +27,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-### Requerimientos funcionales 👻<br>
+## Requerimientos funcionales 👻<br>
 🔰 Implementar restricción de peticiones haciendo uso de limitaciones de peticiones por IP. ✔ <br>
 🔰 Implementar protección a los endPoints haciendo uso de JWT y roles de usuario. ✔ <br>
 🔰 Implementar esquema de versionado de Api que facilite el proceso de implementación de nuevos endpoints sin afectar el funcionamiento de las aplicaciones externas que consumen los servicios del Api. ✔ <br>
@@ -35,7 +35,7 @@
 🔰 Implementar endpoints que permitan realizar el proceso de CRUD en cada uno de los controladores del backend. ✔ <br>
 🔰 Debido al gran volumen de información que la empresa procesa diariamente se requiere que los endpoints encargados de consultar el contenido de las tablas implementen sistema de paginación. ❌ <br>
 
-### Realizar las siguientes consultas: 👨‍💻
+## Realizar las siguientes consultas: 👨‍💻
 <h4>Grupo A:</h4>
 🔹 Listar los insumos que pertenecen a una prenda especifica. El usuario debe ingresar el código de la prenda. ❌ <br>
 🔹 Listar los Insumos que son vendidos por un determinado proveedor cuyo tipo de persona sea Persona Jurídica. El usuario debe ingresar el Nit de proveedor. ❌ <br>
@@ -106,8 +106,8 @@
 
 **Eliminar usuario**: `http://localhost:5272/User/{id}`
 
-### You can help me by Donating 💰
+## You can help me by Donating 💰
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://paypal.me/losadabolivar@gmail.com) 
 
-##### Autores:
+## Autores:
 - <a href="https://github.com/IgmarLozadaBolivar">Powered by Igmar</a><br>
